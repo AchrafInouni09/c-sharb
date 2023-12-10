@@ -1,0 +1,10 @@
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\bin\Debug\Tic-Tac-Toc.exe.config
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\bin\Debug\Tic-Tac-Toc.exe
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\bin\Debug\Tic-Tac-Toc.pdb
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\obj\Debug\Tic-Tac-Toc.csproj.AssemblyReference.cache
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\obj\Debug\Tic_Tac_Toc.Form1.resources
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\obj\Debug\Tic_Tac_Toc.Properties.Resources.resources
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\obj\Debug\Tic-Tac-Toc.csproj.GenerateResource.cache
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\obj\Debug\Tic-Tac-Toc.csproj.CoreCompileInputs.cache
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\obj\Debug\Tic-Tac-Toc.exe
+C:\Users\Oxfam\source\repos\Tic-Tac-Toc\obj\Debug\Tic-Tac-Toc.pdb
